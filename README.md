@@ -23,7 +23,4 @@
 
 
 
-正文链接：
-
-https://github.com/Yuz13001/Med-School-App/blob/master/%E5%8C%97%E7%BE%8E%E5%8C%BB%E5%AD%A6%E9%99%A2%E7%94%B3%E8%AF%B7%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97.md
-
+正文链接：[北美医学院申请不完全指南](https://github.com/Yuz13001/Med-School-App/blob/master/北美医学院申请不完全指南.pdf)
